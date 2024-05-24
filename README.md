@@ -1,1 +1,1 @@
-# Seed-Classification-Using-Geometric-Measurements-with-Data-Analytics-Model
+Seed Classification Model Using Geometric Measurements with Data Analytics Model. During data mining classification, the following algorithm will be considered, Decision Tree(DT), Neural Network(NN)/Multi-Layer Perceptron(MLP), Support Vector Machine(SVM), Naïve Bayes(NB), and K-Nearest Neighbors(KNN). 
